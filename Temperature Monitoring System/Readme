@@ -1,0 +1,5 @@
+Once finished with writing the code in Ubuntu Server.
+Turn On the Bolt Wifi Module and connect it to the internet.
+Run the file using the command - sudo python file_name.py
+The Bolt Module starts fetching the temperature data automatically once the hard-wire connections are perfectly setup
+The code sends the text message after every 30 seconds via Telegram Bot on the given Chat Id of the telegram.
