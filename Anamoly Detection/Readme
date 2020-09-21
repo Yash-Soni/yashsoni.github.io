@@ -1,0 +1,6 @@
+The project will detect and notify about the anomaly in the temperature data collected from the user environment.
+
+Complete the conf.py file with the credentials of your boltiot module and telegram details.
+Run the refrigerator.py file on the ubnutu server 16.04 after connecting the Boltiot wifi module to your bolt cloud.
+
+For more details regarding project description, go to https://www.hackster.io/yash-soni/temperature-anomaly-detection-4e19aa 
